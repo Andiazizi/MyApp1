@@ -1,0 +1,34 @@
+[
+    {
+        "menuName": "CUSTOMERS",
+        "image": "assets/customers.png"
+    },
+    {
+        "menuName": "SUPPLIERS",
+        "image": "assets/suppliers.png"
+    },
+    {
+        "menuName": "PRODUCTS",
+        "image": "assets/products.png"
+    },
+    {
+        "menuName": "POS",
+        "image": "assets/pos.png"
+    },
+    {
+        "menuName": "EXPENSE",
+        "image": "assets/expense1.png"
+    },
+    {
+        "menuName": "ALL ORDERS",
+        "image": "assets/AllOrders.png"
+    },
+    {
+        "menuName": "REPORT",
+        "image": "assets/report1.png"
+    },
+    {
+        "menuName": "SETTINGS",
+        "image": "assets/settings.png"
+    }
+]
